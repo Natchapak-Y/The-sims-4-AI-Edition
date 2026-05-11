@@ -9,7 +9,11 @@ Base model for my code : ollama pull gemma4:e2b
 Terminal : pip install fastapi uvicorn langchain-ollama chromadb pydantic mempalace
 
 Start Guide
-First, you must run api server on Terminal : python api_server.py
+1.Create your project on Unity
 
-and then tab the Play button on Unity.
+2.Place all files from AI_Embodied_World to ypur project folder
+
+3.Run api server on Terminal : python api_server.py
+
+4.Tab the Play button on Unity.
 
