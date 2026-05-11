@@ -1,5 +1,6 @@
 GUIDE
 1.Install Ollama from https://ollama.com/
+
 2.Install Local LLM (Use any Model u want but make sure you changed Model_name in files before run)
 Base model for my code : ollama pull gemma4:e2b
 
