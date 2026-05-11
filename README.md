@@ -8,7 +8,8 @@ Base model for my code : ollama pull gemma4:e2b
 3.Install Python (Libraries)
 Terminal : pip install fastapi uvicorn langchain-ollama chromadb pydantic mempalace
 
-First, u must run api server on Terminal : python api_server.py
+Start Guide
+First, you must run api server on Terminal : python api_server.py
 
 and then tab the Play button on Unity.
 
