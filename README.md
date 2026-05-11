@@ -8,6 +8,8 @@ Base model for my code : ollama pull gemma4:e2b
 3.Install Python (Libraries)
 Terminal : pip install fastapi uvicorn langchain-ollama chromadb pydantic mempalace
 
+4.Install Unity frome https://unity.com/
+
 Start Guide
 1.Create your project on Unity
 
